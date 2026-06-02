@@ -46,7 +46,7 @@ A solução usa IA generativa com o modelo Llama via Ollama para analisar a tele
 
 Abra o notebook no Google Colab:
 
-[Acessar Notebook](COLE_AQUI_O_LINK_DO_COLAB)
+[Acessar Notebook](https://colab.research.google.com/drive/1aaZb0vJqSVI3qRYQ0acSHfSd-HFQjCY7?usp=sharing)
 
 Execute as células em ordem. O modelo Llama será instalado automaticamente pelo notebook.
 

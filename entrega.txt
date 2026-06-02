@@ -3,6 +3,8 @@ Nome completo e RM de todos os integrantes:
 - Leonardo Fortini Marcelo - RM: 572566
 - Mateus Eduardo Da Cruz - RM: 570736
 
-Link do repositório GitHub: https://github.com/SEU_USUARIO/mission-control-ai
+Link do repositório GitHub: https://github.com/MauricioBertuci/AnaliseClimaticaOllama
+
+Link do Colab: https://colab.research.google.com/drive/1aaZb0vJqSVI3qRYQ0acSHfSd-HFQjCY7?usp=sharing
 
 Link do vídeo de demonstração: https://COLE_AQUI_O_LINK_DO_VIDEO
