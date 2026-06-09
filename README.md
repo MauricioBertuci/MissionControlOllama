@@ -52,7 +52,7 @@ Execute as células em ordem. O modelo Llama será instalado automaticamente pel
 
 ## Vídeo de Demonstração
 
-[Assistir ao vídeo](COLE_AQUI_O_LINK_DO_VIDEO)
+[Assistir ao vídeo](https://youtu.be/dkIKVL6x8L4)
 
 ## Estrutura do projeto
 
